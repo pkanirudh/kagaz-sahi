@@ -36,17 +36,11 @@ npm run dev
 
 You'll need an [Anthropic API key](https://console.anthropic.com) to use the full version. A demo mode is available without a key.
 
-## Deploy to Vercel
-
-1. Push this repo to GitHub
-2. Go to [vercel.com](https://vercel.com) → Import project → Select repo
-3. Deploy (zero config needed)
-
 ## Context
 
 This is a proof of concept for a larger product vision: an AI-powered government application assistant that guides Indian citizens through complex multi-language bureaucratic processes — understanding deadlines, generating document checklists, verifying completeness, and cross-checking consistency across documents.
 
-Built with Claude Vision API. Designed for the 1.4 billion Indians navigating government applications in multiple languages.
+Built with Claude Vision API. Designed for millions of Indians navigating government applications in multiple languages.
 
 ---
 
